@@ -7,7 +7,7 @@ DESCRIBE hr;
 SELECT * FROM hr;
 -- Start cleaning the data.
 
--- 1. Change the first field from 'ï»¿id' to 'emp_id'
+-- Change the first field from 'ï»¿id' to 'emp_id'
 ALTER TABLE hr
 CHANGE COLUMN ï»¿id emp_id VARCHAR(30);
 
