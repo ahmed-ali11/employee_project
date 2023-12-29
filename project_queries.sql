@@ -1,5 +1,5 @@
 CREATE DATABASE emp_project;
-
+ 
 USE emp_project;
 
 DESCRIBE hr;
