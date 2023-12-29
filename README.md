@@ -1,3 +1,4 @@
+![qwer](https://github.com/ahmed-ali11/employee_project/assets/153124099/1f9bb529-a545-409a-8370-d65e33bf401e)
 
 # Employee_Dashboard
 ### In this project I used MySQL, Jupyter Notebook, and Power BI. In order to get full visibility about the company's headcount when it comes to current employees and to answer the following questions:
