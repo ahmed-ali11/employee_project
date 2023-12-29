@@ -23,7 +23,7 @@
 - Jupyter Notebook
 - Power BI
   
-## Key Findings:
+### Key Findings:
 ### _Demographic Overview:_
 
 #### 1- Gender Distribution:
